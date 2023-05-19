@@ -1,0 +1,802 @@
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00001.jpg 192,204,581,367,1 160,208,490,489,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00009.jpg 292,180,638,285,1 269,49,543,113,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00023.jpg 56,182,367,322,1 43,46,395,156,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00030.jpg 668,286,755,383,0 346,429,750,511,1 347,429,745,519,1 514,127,714,236,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00044.jpg 277,171,588,259,1 293,72,621,104,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00057.jpg 0,370,170,492,0 102,265,227,369,0 94,217,341,469,1 117,391,413,543,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00077.jpg 599,77,729,428,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00079.jpg 66,219,145,493,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00101.jpg 485,407,786,453,1 437,371,768,422,1 392,312,795,412,1 469,144,588,258,0 612,149,801,269,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00103.jpg 234,379,337,490,0 34,372,209,502,0 60,186,362,216,1 78,227,398,244,1 52,246,452,304,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00137.jpg 47,200,458,305,1 76,192,408,231,1 63,218,358,257,1 126,372,225,481,0 61,359,108,487,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00163.jpg 36,162,337,304,1 36,166,463,332,1 101,163,422,277,1 129,351,218,462,0 65,329,100,441,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00188.jpg 24,77,72,420,1 49,253,164,381,0 53,297,228,381,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00194.jpg 0,131,67,462,1 54,307,152,431,0 52,353,211,423,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00220.jpg 337,307,430,431,0 57,148,213,235,0 19,124,125,436,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00235.jpg 18,166,112,462,1 32,165,198,265,0 373,280,473,400,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00245.jpg 328,325,440,446,0 41,182,187,275,0 6,167,97,482,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00266.jpg 262,326,652,468,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00269.jpg 255,313,650,472,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00300.jpg 574,139,649,466,1 244,115,377,325,0 439,282,665,420,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00304.jpg 8,114,86,453,1 260,168,453,331,0 34,326,196,421,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00322.jpg 95,140,388,243,1 38,159,339,298,1 14,132,465,382,1 114,306,202,413,0 67,327,96,446,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00332.jpg 27,151,96,451,1 53,177,186,247,0 348,289,472,416,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00340.jpg 84,204,384,353,1 45,253,349,369,1 37,226,466,442,1 137,385,245,497,0 91,419,142,538,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00352.jpg 171,335,468,475,1 125,260,426,321,1 105,192,498,395,1 123,198,209,294,0 67,208,95,324,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00355.jpg 389,67,606,153,0 0,136,229,246,0 34,87,98,276,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00357.jpg 351,353,593,495,0 49,296,185,410,0 0,40,216,308,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00364.jpg 289,134,502,223,0 53,339,208,429,0 0,105,107,471,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00382.jpg 315,269,482,421,0 24,170,178,268,0 29,161,76,483,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00389.jpg 133,383,234,491,0 84,415,128,530,0 87,204,380,352,1 45,232,329,382,1 35,211,451,446,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00395.jpg 449,168,649,303,0 263,263,428,472,0 591,110,639,430,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00407.jpg 128,380,226,486,0 83,413,124,528,0 90,201,373,350,1 49,233,327,375,1 35,208,445,447,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00418.jpg 102,438,404,524,1 55,401,349,501,1 62,303,438,549,1 115,295,214,385,0 64,264,101,370,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00433.jpg 212,246,339,368,0 11,201,223,301,0 27,200,133,511,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00434.jpg 37,136,92,457,1 200,240,359,372,0 64,175,216,256,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00438.jpg 70,271,180,379,0 210,276,332,405,0 0,301,276,566,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00440.jpg 145,200,313,343,0 33,313,193,411,0 5,83,71,453,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00442.jpg 345,233,484,375,0 220,265,397,376,0 274,389,666,539,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00449.jpg 264,246,419,350,0 401,350,567,431,0 22,21,443,183,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00452.jpg 559,181,683,323,0 129,69,308,183,0 382,228,611,414,1 152,21,563,207,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00475.jpg 127,37,356,221,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00476.jpg 87,153,429,485,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00508.jpg 127,149,331,493,1 53,101,293,234,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00517.jpg 115,125,571,295,1 67,281,283,386,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00553.jpg 191,295,604,491,1 289,273,584,549,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00557.jpg 70,208,494,384,1 159,177,439,463,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00562.jpg 161,327,562,430,1 334,266,451,517,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00563.jpg 82,154,354,219,1 151,73,247,168,0 117,130,272,341,1 74,129,341,176,4 46,36,259,188,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00567.jpg 102,194,399,244,1 115,77,364,282,1 166,151,367,284,0 224,203,422,378,4 116,194,396,292,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00595.jpg 714,119,1024,220,1 700,95,1016,197,1 653,205,860,278,0 661,65,911,267,4 687,40,765,265,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00596.jpg 720,153,1130,453,1 698,232,1178,403,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00599.jpg 107,170,372,316,1 105,201,271,348,0 50,268,268,411,4 61,272,327,319,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00606.jpg 159,227,467,536,1 171,206,504,532,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00611.jpg 119,85,376,222,1 93,136,241,232,0 79,60,373,201,1 60,48,254,280,4 85,44,130,276,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00620.jpg 88,131,395,468,1 77,245,452,379,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00624.jpg 86,235,488,352,1 171,172,405,471,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00661.jpg 164,174,493,467,1 165,188,389,507,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00726.jpg 297,149,429,386,1 66,79,368,177,1 153,183,323,306,0 121,213,270,358,0 211,66,398,171,1 260,155,391,347,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00729.jpg 296,185,650,445,1 287,183,647,442,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00732.jpg 365,55,385,357,1 89,309,405,399,1 170,177,331,321,0 52,170,331,302,0 358,179,404,357,1 138,291,388,360,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00735.jpg 201,257,431,600,1 180,242,425,602,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00749.jpg 23,78,420,355,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00751.jpg 45,86,516,306,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00762.jpg 185,131,325,377,1 238,350,523,464,1 367,379,534,471,0 359,354,565,459,4 412,294,562,463,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00765.jpg 27,196,294,351,1 284,131,511,329,1 396,137,498,281,0 306,101,519,188,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00773.jpg 243,282,390,516,1 35,158,298,304,1 19,166,199,288,0 22,186,224,360,4 19,173,168,328,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00777.jpg 195,287,373,518,1 68,139,190,415,1 20,150,195,276,0 22,169,205,349,4 24,142,152,326,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00794.jpg 71,78,442,393,1 133,27,385,214,4 113,104,409,389,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00801.jpg 236,200,516,321,1 130,261,517,356,1 91,359,261,448,0 125,381,330,488,4 94,383,302,483,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00802.jpg 54,79,440,374,1 136,74,384,373,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00805.jpg 81,213,483,393,1 136,306,393,389,1 310,123,472,242,0 255,102,426,297,4 261,101,460,248,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00817.jpg 856,325,1024,422,0 856,316,1364,520,1 790,293,1085,389,2 848,291,1131,373,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00844.jpg 116,265,485,467,1 86,329,303,463,4 34,173,199,327,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00847.jpg 52,338,414,383,1 218,299,485,421,1 154,291,327,432,0 448,247,515,449,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00870.jpg 21,58,256,294,1 88,220,197,377,0 108,169,257,367,4 28,23,340,301,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00890.jpg 422,187,573,216,1 340,189,697,330,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00895.jpg 244,624,683,771,1 377,493,615,625,0 208,630,389,776,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00913.jpg 404,499,650,657,0 222,565,406,748,0 297,444,748,682,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00917.jpg 98,315,380,393,1 124,581,567,720,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00936.jpg 383,14,586,174,0 309,414,498,479,0 379,228,599,374,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00937.jpg 384,113,498,296,0 0,84,145,245,0 184,83,298,281,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00951.jpg 218,341,418,457,0 451,258,655,427,0 338,253,556,425,4 294,406,571,599,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00956.jpg 265,203,465,323,0 473,42,681,164,0 335,251,584,344,4 282,87,547,164,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00978.jpg 300,72,430,168,0 158,197,262,371,0 106,162,339,280,4 323,353,598,495,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00981.jpg 212,189,333,287,0 324,204,558,340,0 473,365,742,458,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P00984.jpg 202,415,304,552,0 269,644,456,718,0 412,367,483,609,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01004.jpg 5,299,221,437,0 433,186,547,362,0 24,18,302,166,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01009.jpg 384,152,576,272,0 219,417,396,600,0 303,510,567,572,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01012.jpg 0,336,178,475,0 188,21,430,233,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01020.jpg 392,104,593,248,0 592,41,740,337,2 170,436,313,570,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01029.jpg 485,254,520,420,0 101,211,369,355,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01048.jpg 126,502,280,632,0 342,355,474,543,0 347,181,494,438,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01049.jpg 244,381,424,497,0 310,409,507,567,0 458,407,731,498,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01050.jpg 483,285,660,419,0 481,227,662,316,0 243,137,509,336,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01068.jpg 211,325,335,477,0 269,316,348,434,0 198,252,388,331,0 208,321,435,423,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01070.jpg 228,321,445,500,0 219,308,372,490,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01079.jpg 293,239,407,416,0 382,138,496,372,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01085.jpg 421,311,598,468,0 572,203,792,385,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01090.jpg 166,312,281,507,0 99,567,364,691,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01097.jpg 167,102,362,216,0 430,71,543,328,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01099.jpg 138,121,325,309,0 213,11,474,226,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01111.jpg 355,297,542,356,0 546,191,774,395,2 204,320,299,498,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01112.jpg 356,292,542,359,0 206,319,299,498,2 540,190,772,394,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01115.jpg 342,318,521,480,0 546,349,719,478,2 233,177,324,354,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01125.jpg 285,461,488,485,0 82,174,383,343,2 673,39,749,225,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01136.jpg 254,113,420,192,0 452,361,630,530,0 656,316,858,436,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01137.jpg 491,286,670,384,0 86,279,292,435,0 547,51,644,248,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01146.jpg 185,318,422,465,0 548,47,674,245,2 288,134,567,264,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01147.jpg 457,344,686,511,0 86,379,260,407,2 221,376,499,552,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01163.jpg 156,174,316,372,0 191,284,345,557,2 212,454,356,633,2 95,54,156,277,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01167.jpg 166,260,351,328,0 579,100,770,176,2 361,45,675,153,2 129,67,368,104,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01181.jpg 430,101,593,194,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01182.jpg 317,165,530,281,0 509,50,792,129,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01185.jpg 356,171,487,260,0 298,234,530,377,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01190.jpg 297,251,490,396,0 220,339,497,444,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01195.jpg 388,220,649,370,0 234,461,457,633,4 133,333,293,572,2 470,111,645,173,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01203.jpg 18,24,234,227,0 407,433,544,596,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01205.jpg 0,244,155,433,0 469,92,604,284,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01213.jpg 77,354,274,469,0 4,188,198,310,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01218.jpg 413,237,594,310,0 343,45,555,209,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01221.jpg 65,144,200,316,0 11,232,159,409,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01236.jpg 16,142,153,318,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01254.jpg 100,67,269,198,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01256.jpg 23,260,134,381,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01273.jpg 468,434,625,498,0 519,430,661,535,0 239,477,520,631,2 543,380,718,469,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01279.jpg 16,113,120,235,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01284.jpg 406,396,507,521,0 164,217,374,417,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01301.jpg 372,410,484,559,0 153,366,371,606,2 570,46,652,303,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01333.jpg 485,228,650,321,0 423,244,581,353,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01334.jpg 167,140,284,300,0 173,207,260,366,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01338.jpg 399,305,577,431,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01345.jpg 306,239,474,345,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01354.jpg 109,250,249,399,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01369.jpg 139,102,193,288,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01391.jpg 114,154,221,309,0 341,428,526,573,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01398.jpg 413,67,558,210,0 23,284,162,440,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01404.jpg 205,212,365,366,0 294,367,517,534,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01422.jpg 304,41,477,142,0 345,190,526,315,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01444.jpg 35,277,231,457,0 164,365,331,501,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01455.jpg 391,15,609,146,0 287,204,516,340,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01460.jpg 288,277,465,433,0 322,156,488,267,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01468.jpg 180,254,284,436,0 317,263,502,396,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01483.jpg 344,235,437,388,0 179,339,382,509,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01490.jpg 565,257,690,406,0 426,317,584,451,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01496.jpg 416,306,489,352,0 314,431,525,546,0 126,448,279,551,0 60,193,194,309,0 192,201,357,380,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01519.jpg 120,221,309,350,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01530.jpg 386,357,489,507,0 251,303,391,543,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01547.jpg 433,258,594,402,0 194,258,420,472,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01560.jpg 131,205,348,359,0 284,195,476,354,0 176,344,443,477,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01563.jpg 170,215,275,383,0 172,117,375,261,0 268,201,506,399,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01588.jpg 450,173,650,319,0 516,358,703,588,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01591.jpg 289,5,520,139,0 459,165,756,293,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01592.jpg 202,153,381,339,0 418,146,687,304,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01595.jpg 9,290,160,482,0 144,52,277,328,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01604.jpg 258,490,410,613,0 0,119,221,238,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01609.jpg 500,195,645,327,0 18,480,235,511,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01614.jpg 353,349,571,511,0 0,121,184,290,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01619.jpg 139,234,238,377,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01629.jpg 54,105,164,284,0 265,483,425,639,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01635.jpg 255,412,430,625,0 262,18,395,116,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01657.jpg 159,317,338,406,0 246,335,496,556,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01661.jpg 281,311,395,457,0 411,52,589,305,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01667.jpg 189,153,390,289,0 30,78,171,329,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01676.jpg 294,348,479,462,0 80,102,204,346,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01703.jpg 465,279,622,425,0 329,26,591,231,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01732.jpg 369,368,517,486,0 413,119,568,343,0 130,431,260,608,0 88,149,205,311,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01738.jpg 263,68,419,210,0 485,183,616,343,0 73,97,244,301,0 290,398,439,574,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01812.jpg 207,249,337,433,0 347,469,525,670,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01826.jpg 150,28,291,220,0 222,175,441,396,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01830.jpg 42,315,189,507,0 211,206,438,434,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01845.jpg 208,150,373,360,0 220,187,349,449,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01846.jpg 240,156,403,355,0 247,188,378,447,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01848.jpg 259,207,437,314,0 270,206,501,410,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01852.jpg 248,282,425,457,0 240,293,521,420,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01853.jpg 173,359,324,564,0 172,297,317,558,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01854.jpg 166,359,319,568,0 170,293,309,561,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01855.jpg 8,84,152,233,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01865.jpg 414,77,602,238,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01868.jpg 361,8,514,118,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01871.jpg 231,278,359,457,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01876.jpg 465,281,664,460,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01882.jpg 98,200,316,349,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01901.jpg 276,245,498,388,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01910.jpg 293,281,518,436,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01915.jpg 61,313,272,447,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01934.jpg 300,214,511,333,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01968.jpg 325,248,502,398,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01982.jpg 91,151,179,343,0 169,207,317,350,0 389,225,566,388,0 255,235,425,413,0 220,267,311,461,0 259,153,439,264,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P01987.jpg 259,461,475,643,0 217,82,387,132,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02022.jpg 216,347,392,453,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02023.jpg 235,369,385,448,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02028.jpg 305,315,464,467,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02035.jpg 186,287,329,419,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02063.jpg 133,275,312,474,0 112,219,346,397,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02067.jpg 249,249,468,395,0 137,239,378,414,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02069.jpg 272,230,474,393,0 189,242,378,436,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02077.jpg 171,102,389,274,0 265,206,466,406,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02084.jpg 277,448,471,554,0 198,300,418,393,0 425,329,686,496,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02106.jpg 378,186,491,356,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02110.jpg 189,66,377,183,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02131.jpg 277,220,454,396,0 87,361,355,451,2 130,318,367,407,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02139.jpg 158,203,340,380,0 264,178,531,254,2 251,229,488,282,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02147.jpg 203,225,415,412,0 540,181,759,335,0 659,293,786,550,2 625,209,833,381,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02177.jpg 182,316,390,458,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02192.jpg 260,106,460,279,0 399,362,567,460,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02197.jpg 193,375,407,511,0 468,79,604,201,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02199.jpg 261,333,499,461,0 246,0,436,90,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02222.jpg 502,366,690,495,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02230.jpg 287,2,431,175,0 77,357,301,543,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02255.jpg 344,231,571,385,0 204,357,304,528,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02262.jpg 245,292,458,457,0 466,160,657,316,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02264.jpg 100,15,285,151,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02276.jpg 370,284,585,433,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02279.jpg 37,1,225,169,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02281.jpg 39,160,147,327,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02287.jpg 447,160,591,370,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02312.jpg 69,123,252,278,0 155,330,323,399,2 136,376,362,508,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02313.jpg 153,456,326,607,0 380,351,587,581,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02314.jpg 376,100,777,179,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02327.jpg 9,55,173,166,0 107,92,338,211,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02337.jpg 218,176,413,287,0 108,252,316,387,0 236,164,669,424,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02343.jpg 233,45,435,133,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02344.jpg 393,229,600,315,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02352.jpg 340,323,545,416,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02353.jpg 390,230,493,444,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02365.jpg 364,111,573,222,0 526,144,647,304,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02374.jpg 259,109,539,237,0 472,179,590,311,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02382.jpg 25,73,165,189,0 104,127,305,227,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02386.jpg 296,96,578,236,0 508,168,624,300,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02407.jpg 28,30,167,143,0 87,89,321,206,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02420.jpg 289,102,557,235,0 489,213,615,338,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02443.jpg 51,69,273,310,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02452.jpg 164,254,346,358,0 347,209,550,311,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02457.jpg 180,325,343,426,0 398,310,608,433,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02477.jpg 46,327,147,472,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02482.jpg 22,181,145,290,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02489.jpg 336,178,500,272,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02501.jpg 104,261,267,424,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02504.jpg 19,83,142,246,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02511.jpg 79,58,315,185,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02512.jpg 36,165,210,283,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02514.jpg 0,167,249,317,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02544.jpg 327,360,483,458,0 53,240,492,377,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02553.jpg 473,310,596,456,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02555.jpg 498,47,633,183,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02558.jpg 9,225,150,393,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02578.jpg 336,54,620,397,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02584.jpg 387,283,578,435,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02599.jpg 80,181,393,314,1 26,32,375,118,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02602.jpg 71,177,294,295,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02613.jpg 355,263,459,336,0 309,373,413,466,0 303,243,374,395,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02628.jpg 112,214,292,289,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02629.jpg 71,181,397,305,1 21,24,376,130,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02643.jpg 26,168,191,288,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02645.jpg 102,407,298,565,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02649.jpg 63,167,202,310,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02656.jpg 88,202,225,319,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02666.jpg 216,353,416,480,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02681.jpg 150,302,377,397,0 69,219,294,316,0 19,157,149,248,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02685.jpg 6,159,378,352,1 107,278,411,418,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02694.jpg 276,446,429,620,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02700.jpg 189,124,372,191,0 56,209,89,288,0 60,421,462,526,1 52,432,470,533,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02710.jpg 124,150,313,227,0 51,248,95,330,0 90,449,487,547,1 78,448,494,584,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02718.jpg 9,170,91,327,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02722.jpg 77,296,229,465,0 169,336,343,499,0 27,393,146,525,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02729.jpg 127,340,293,489,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02737.jpg 39,221,386,309,1 82,22,410,152,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02749.jpg 148,123,347,222,0 76,212,147,297,0 62,413,470,569,1 64,462,468,544,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02751.jpg 419,218,604,319,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02764.jpg 227,51,643,187,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02782.jpg 116,343,315,510,0 10,321,145,461,0 20,185,422,446,1 145,367,450,513,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02808.jpg 5,89,192,200,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02809.jpg 59,194,212,349,0 45,109,483,267,1 41,335,312,530,1 39,324,85,444,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02832.jpg 143,161,537,348,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02841.jpg 122,397,299,473,0 282,100,503,163,0 39,136,484,345,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02843.jpg 0,255,174,397,0 379,108,611,281,0 102,35,449,412,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02849.jpg 35,275,137,533,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02860.jpg 602,79,727,431,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02861.jpg 317,87,582,231,0 11,254,147,386,0 15,88,481,316,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02864.jpg 170,432,388,623,0 109,80,299,179,0 92,136,437,523,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02895.jpg 474,257,678,378,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02900.jpg 69,241,223,350,0 144,369,303,458,0 27,221,470,413,1 50,135,88,405,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02904.jpg 435,267,628,379,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02922.jpg 234,59,479,167,0 0,189,83,330,0 27,148,481,305,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02924.jpg 179,299,416,430,0 196,119,623,319,1 602,155,661,322,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02930.jpg 295,160,403,275,0 517,182,699,295,0 283,341,732,553,1 449,507,753,609,1 353,428,707,563,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02937.jpg 152,67,351,138,0 24,193,431,249,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02946.jpg 212,349,390,439,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02947.jpg 398,476,592,571,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P02952.jpg 166,144,370,241,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03000.jpg 480,123,616,304,0 454,249,652,366,0 187,373,596,425,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03007.jpg 276,172,431,249,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03016.jpg 583,153,716,267,0 724,174,779,286,0 390,331,781,426,1 429,386,760,462,1 479,338,794,412,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03031.jpg 68,347,254,439,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03041.jpg 116,336,205,440,0 66,371,98,476,0 38,168,437,413,1 95,183,424,324,1 40,152,319,327,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03051.jpg 91,170,215,329,0 58,232,225,314,0 33,125,125,435,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03058.jpg 46,294,233,382,0 64,253,151,381,0 25,76,63,420,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03062.jpg 50,200,207,300,0 33,212,165,357,0 0,209,106,524,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03074.jpg 57,148,211,233,0 340,306,423,431,0 24,125,125,437,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03080.jpg 84,125,438,341,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03084.jpg 326,273,461,426,0 35,137,209,227,0 13,110,99,437,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03103.jpg 220,116,389,324,0 440,284,662,419,0 570,137,656,467,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03124.jpg 354,230,551,396,0 47,229,182,343,0 4,245,192,538,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03128.jpg 116,323,201,421,0 39,175,349,321,1 81,142,403,293,1 34,152,445,391,1 69,346,95,459,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03151.jpg 151,415,256,523,0 73,256,349,408,1 163,203,407,356,1 46,253,467,471,1 105,451,152,567,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03152.jpg 256,259,385,463,0 470,225,656,366,0 530,195,673,507,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03155.jpg 181,256,234,375,0 19,175,186,287,0 18,166,99,493,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03156.jpg 346,249,468,373,0 462,227,631,385,0 528,85,649,397,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03211.jpg 453,167,602,301,0 0,160,196,331,0 509,47,567,346,1 69,144,440,324,4 398,138,623,339,4 403,186,637,234,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03216.jpg 449,174,587,304,0 56,298,257,450,0 500,74,543,342,1 176,154,407,225,4 241,202,491,248,4 117,164,244,512,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03220.jpg 38,249,424,491,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03241.jpg 247,219,379,557,1 153,369,524,490,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03243.jpg 94,311,422,621,1 116,401,441,574,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03272.jpg 102,221,416,317,1 74,336,499,482,1 85,249,470,444,1 74,252,365,494,4 95,247,320,441,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03276.jpg 104,305,492,429,1 159,169,338,482,1 119,183,303,401,1 214,224,311,537,4 187,272,268,501,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03294.jpg 166,271,335,597,1 72,338,487,496,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03303.jpg 199,294,598,471,1 296,261,588,562,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03307.jpg 150,174,427,462,1 65,206,491,388,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03351.jpg 115,165,291,287,0 176,147,285,372,1 146,115,220,320,4 44,106,242,269,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03354.jpg 93,274,519,465,1 218,200,353,550,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03360.jpg 81,237,483,351,1 171,168,404,473,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03374.jpg 161,189,297,345,0 17,210,349,326,1 37,253,288,348,4 114,5,413,300,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03375.jpg 65,270,512,470,1 116,275,484,521,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03378.jpg 165,136,413,485,1 147,218,533,498,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03406.jpg 156,180,331,311,0 274,153,450,387,1 252,170,411,348,4 247,69,450,207,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03420.jpg 66,184,429,460,1 44,171,424,466,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03423.jpg 76,167,229,264,0 98,217,402,355,1 0,104,81,379,1 50,267,274,374,3 42,154,122,355,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03431.jpg 242,160,440,454,1 245,150,454,435,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03471.jpg 237,158,545,280,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03475.jpg 45,71,499,254,1 59,159,346,289,4 98,111,485,219,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03489.jpg 66,336,236,430,0 236,271,537,351,1 166,168,550,417,1 79,390,296,472,4 51,398,263,467,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03490.jpg 335,126,497,221,0 40,198,330,325,1 24,130,425,385,1 278,91,496,263,4 299,92,521,192,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03503.jpg 54,147,178,291,0 176,291,257,565,1 10,181,215,365,4 16,178,194,354,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03518.jpg 118,269,234,424,0 11,51,272,346,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03524.jpg 115,350,422,453,1 41,326,351,364,1 273,287,540,484,2 263,307,514,444,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03538.jpg 1190,229,1295,380,0 11,262,325,389,1 1143,191,1315,447,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03550.jpg 97,137,480,247,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03552.jpg 14,364,394,606,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03566.jpg 106,369,490,558,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03572.jpg 33,314,405,576,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03578.jpg 219,94,379,210,0 234,222,323,335,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03590.jpg 8,35,120,180,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03624.jpg 144,537,292,649,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03625.jpg 332,541,564,645,0 112,499,282,689,0 191,505,634,649,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03629.jpg 529,348,679,487,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03641.jpg 510,172,675,296,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03642.jpg 358,441,510,575,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03648.jpg 348,573,501,695,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03672.jpg 323,361,454,476,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03686.jpg 405,61,567,241,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03694.jpg 575,225,735,355,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03696.jpg 541,401,632,511,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03743.jpg 456,305,628,407,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03756.jpg 136,191,267,322,0 44,78,200,230,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03773.jpg 231,338,471,474,4 244,328,399,446,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03787.jpg 95,170,168,291,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03789.jpg 716,238,803,451,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03793.jpg 43,134,132,250,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03795.jpg 174,143,240,232,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03802.jpg 363,198,503,369,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03813.jpg 97,168,141,280,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03839.jpg 231,64,296,249,2 105,131,238,321,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03849.jpg 502,113,607,294,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03858.jpg 86,470,190,593,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03868.jpg 359,238,526,371,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03874.jpg 53,281,264,463,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03888.jpg 425,290,479,405,4 350,268,486,415,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03897.jpg 129,108,189,262,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03915.jpg 1048,601,1200,694,2 958,613,1027,758,2 949,558,1078,620,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03919.jpg 302,588,407,765,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03922.jpg 688,435,849,476,2 663,278,809,320,2 667,432,852,482,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03947.jpg 35,71,134,140,2 93,199,238,351,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03952.jpg 37,128,251,298,4 150,0,309,63,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03975.jpg 39,264,162,362,2 48,266,180,346,2 118,135,313,207,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03980.jpg 75,85,244,196,4 33,235,142,357,2 39,230,169,341,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03981.jpg 134,237,242,359,2 107,231,237,343,2 31,86,197,193,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P03991.jpg 317,299,434,429,2 371,335,402,468,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04011.jpg 294,208,393,355,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04015.jpg 526,333,680,423,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04029.jpg 731,245,778,362,2 790,270,855,388,2 802,291,923,340,4 736,293,987,341,4 1008,286,1060,406,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04036.jpg 408,321,566,387,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04043.jpg 211,138,259,204,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04045.jpg 251,308,350,476,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04057.jpg 106,124,227,271,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04070.jpg 181,359,212,406,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04080.jpg 56,473,221,587,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04098.jpg 36,171,147,299,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04106.jpg 410,259,460,417,2 372,261,416,392,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04193.jpg 489,36,659,158,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04203.jpg 104,97,208,205,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04267.jpg 630,252,673,412,4 585,227,635,344,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04273.jpg 624,346,754,434,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04277.jpg 223,429,358,556,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04288.jpg 304,164,389,281,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04293.jpg 1228,687,1420,789,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04339.jpg 68,136,116,295,4 107,122,155,283,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04350.jpg 135,204,178,367,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04351.jpg 137,212,178,377,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04360.jpg 702,233,787,343,2 718,187,817,322,2 663,238,755,363,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04367.jpg 172,91,217,172,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04386.jpg 323,204,486,448,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04389.jpg 326,208,483,447,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04392.jpg 165,326,251,505,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04394.jpg 54,455,141,600,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04401.jpg 420,385,509,444,3 471,349,506,422,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04427.jpg 451,84,554,409,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04437.jpg 132,68,315,137,2 77,28,333,106,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04442.jpg 55,165,160,291,2 43,186,156,339,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04451.jpg 446,346,545,385,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04458.jpg 315,133,500,248,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04500.jpg 175,391,211,499,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04511.jpg 174,283,258,394,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04526.jpg 154,369,278,539,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04536.jpg 391,392,535,485,2 398,392,557,549,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04567.jpg 111,473,226,575,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04572.jpg 283,295,350,412,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04575.jpg 522,266,611,370,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04586.jpg 342,333,501,469,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04588.jpg 527,39,595,209,4 326,96,552,186,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04593.jpg 86,258,202,432,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04605.jpg 48,170,209,308,2 30,134,100,249,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04608.jpg 131,419,186,543,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04613.jpg 322,314,478,374,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04641.jpg 85,56,198,281,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04652.jpg 635,454,696,652,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04654.jpg 220,318,255,453,2 172,335,255,439,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04660.jpg 51,282,137,367,4 81,253,193,375,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04666.jpg 142,597,264,779,2 253,605,295,736,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04668.jpg 249,275,299,404,2 135,273,270,444,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04679.jpg 63,272,157,432,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04681.jpg 135,67,252,188,2 112,178,333,233,2 220,138,374,184,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04691.jpg 77,370,218,424,2 221,335,314,435,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04728.jpg 140,321,220,382,2 110,335,214,399,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04730.jpg 356,308,440,456,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04748.jpg 42,257,193,366,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04763.jpg 446,236,538,344,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04771.jpg 401,441,436,582,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04775.jpg 64,175,125,287,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04785.jpg 345,312,423,374,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04788.jpg 780,447,865,499,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04795.jpg 510,108,534,236,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04808.jpg 815,217,915,268,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04814.jpg 51,599,236,689,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04881.jpg 204,359,250,460,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04884.jpg 66,767,188,838,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04910.jpg 386,367,432,448,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04913.jpg 167,487,220,559,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04921.jpg 341,379,453,472,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04925.jpg 330,142,558,296,4 390,143,551,309,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04946.jpg 86,150,263,279,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04957.jpg 281,150,377,405,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04962.jpg 143,394,311,496,2 193,423,329,560,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04965.jpg 196,296,332,421,2 143,269,313,361,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04966.jpg 144,724,309,826,2 195,737,327,894,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04974.jpg 739,206,902,272,2 799,250,946,347,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P04984.jpg 64,597,137,740,2 179,708,299,746,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05003.jpg 75,119,302,223,4 238,119,301,173,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05009.jpg 180,335,262,522,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05044.jpg 369,391,494,480,2 330,375,425,478,4 333,331,472,409,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05056.jpg 187,554,282,717,2 108,665,203,804,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05061.jpg 131,136,268,250,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05069.jpg 224,133,353,206,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05070.jpg 222,132,353,207,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05077.jpg 243,262,398,384,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05078.jpg 242,263,395,383,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05081.jpg 549,189,718,208,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05096.jpg 267,368,290,483,4 238,349,283,480,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05108.jpg 1023,336,1261,414,4 625,506,851,633,4 451,443,661,641,4 240,230,390,274,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05120.jpg 304,262,368,416,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05144.jpg 134,227,196,387,2 84,321,142,463,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05154.jpg 49,323,145,449,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05156.jpg 362,343,489,470,2 426,255,480,356,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05157.jpg 356,291,491,423,2 421,208,482,305,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05176.jpg 77,779,158,923,4 46,815,123,904,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05196.jpg 84,348,175,384,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05201.jpg 84,375,212,475,4 119,357,177,482,4 67,364,157,498,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05202.jpg 504,403,560,516,2 543,328,587,436,4 515,409,563,512,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05203.jpg 492,327,535,431,4 469,409,510,512,2 450,402,509,518,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05204.jpg 68,368,205,470,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05234.jpg 74,447,127,619,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05237.jpg 400,676,438,783,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05244.jpg 165,273,254,381,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05261.jpg 271,128,386,292,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05268.jpg 69,364,162,498,4 184,284,281,374,2 128,341,212,459,2 138,263,222,349,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05284.jpg 77,48,194,214,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05287.jpg 242,309,300,443,4 238,313,336,492,2 76,378,205,508,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05291.jpg 32,284,182,420,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05297.jpg 60,245,149,399,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05324.jpg 77,208,157,336,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05328.jpg 224,301,289,421,3 312,272,359,409,3 370,282,436,425,3 382,281,441,414,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05334.jpg 133,384,237,557,4 171,403,238,527,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05347.jpg 250,168,364,258,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05356.jpg 187,247,350,475,4 177,285,228,425,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05362.jpg 320,314,460,467,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05387.jpg 284,190,356,313,2 124,269,331,370,4 107,299,278,379,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05422.jpg 79,73,208,172,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05437.jpg 157,328,328,481,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05460.jpg 357,96,431,223,4 157,76,372,141,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05472.jpg 197,311,344,429,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05485.jpg 419,246,638,462,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05487.jpg 106,93,154,216,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05490.jpg 98,157,270,324,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05493.jpg 274,297,310,417,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05503.jpg 435,207,503,270,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05516.jpg 638,299,745,370,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05532.jpg 295,425,452,477,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05548.jpg 478,227,549,345,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05554.jpg 192,175,292,297,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05562.jpg 576,127,686,323,4 164,256,197,355,4 112,274,183,394,2 121,194,186,314,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05577.jpg 741,237,805,335,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05591.jpg 149,280,242,397,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05594.jpg 98,310,269,374,2 144,373,276,452,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05616.jpg 111,761,168,803,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05644.jpg 439,105,481,234,2 409,115,461,257,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05649.jpg 47,128,74,196,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05669.jpg 128,374,196,508,2 117,188,276,359,4 151,319,196,485,4 184,256,240,455,4 158,219,218,438,4 128,226,206,283,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05684.jpg 54,98,146,195,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05718.jpg 113,82,161,141,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05723.jpg 103,174,152,215,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05727.jpg 231,139,333,169,4 142,185,263,225,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05743.jpg 184,543,303,629,2 133,589,257,683,2 96,606,219,740,2 58,653,153,762,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05752.jpg 93,328,246,436,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05755.jpg 313,302,482,447,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05772.jpg 84,367,143,417,3 39,310,133,443,3 77,327,179,412,3 62,320,185,452,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05825.jpg 163,249,336,348,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05827.jpg 300,104,364,321,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05858.jpg 714,436,789,557,2 1284,611,1332,737,4 1187,593,1250,774,4 1204,558,1301,772,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05878.jpg 155,632,221,860,4 204,693,249,827,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05906.jpg 490,80,584,191,2 484,51,574,255,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05923.jpg 157,497,302,607,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05949.jpg 282,212,358,326,2 251,159,365,318,2 324,197,387,338,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05972.jpg 207,437,269,487,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P05984.jpg 362,369,468,535,2 378,313,466,421,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06003.jpg 117,56,193,210,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06005.jpg 337,257,449,352,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06006.jpg 338,260,447,349,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06024.jpg 746,744,923,827,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06031.jpg 92,40,243,126,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06045.jpg 274,275,329,412,2 298,272,350,459,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06049.jpg 430,337,477,460,2 347,305,449,477,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06065.jpg 162,483,266,624,2 103,483,197,618,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06072.jpg 601,258,738,293,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06087.jpg 239,420,326,562,2 217,346,280,481,2 310,386,358,545,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06093.jpg 316,419,575,496,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06101.jpg 248,432,387,496,2 242,473,381,528,2 185,401,357,485,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06104.jpg 78,93,180,136,2 79,56,196,106,2 49,210,300,293,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06121.jpg 116,281,222,365,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06122.jpg 124,282,223,362,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06124.jpg 125,279,224,364,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06126.jpg 307,203,384,275,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06140.jpg 56,159,234,213,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06150.jpg 236,268,286,345,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06155.jpg 461,430,598,485,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06175.jpg 32,260,98,325,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06198.jpg 54,276,199,367,4 73,309,165,363,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06204.jpg 625,316,749,383,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06253.jpg 68,374,200,430,2 98,448,270,502,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06261.jpg 0,715,203,847,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06272.jpg 553,182,642,317,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06285.jpg 232,95,309,175,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06286.jpg 232,95,307,176,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06300.jpg 698,550,804,595,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06303.jpg 287,288,353,375,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06333.jpg 102,248,170,323,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06352.jpg 334,316,364,387,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06360.jpg 479,145,516,260,2 488,218,566,331,2 494,166,607,313,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06364.jpg 132,263,209,323,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06366.jpg 114,233,208,381,4 68,251,144,362,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06377.jpg 419,247,501,310,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06412.jpg 200,157,244,220,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06417.jpg 91,256,183,297,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06420.jpg 91,193,184,233,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06422.jpg 120,114,165,231,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06478.jpg 40,11,171,95,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06481.jpg 139,309,264,424,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06484.jpg 110,555,341,650,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06501.jpg 258,142,394,185,2 381,338,446,434,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06507.jpg 402,158,505,286,2 334,182,393,297,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06512.jpg 598,287,737,393,4 600,303,748,406,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06521.jpg 634,154,683,377,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06530.jpg 231,206,312,242,3 400,124,469,197,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06534.jpg 231,204,311,241,3 400,121,470,195,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06549.jpg 379,227,445,398,2 382,232,447,368,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06563.jpg 337,96,449,154,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06570.jpg 426,159,546,265,2 407,165,490,259,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06574.jpg 531,411,699,464,2 505,352,714,404,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06579.jpg 170,445,243,485,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06592.jpg 177,84,309,151,2 205,137,337,179,2 204,110,330,164,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06593.jpg 178,85,308,149,2 204,137,335,183,2 224,111,328,160,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06608.jpg 215,81,261,234,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06622.jpg 67,55,238,155,2 83,57,270,153,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06630.jpg 252,301,404,524,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06635.jpg 216,398,382,496,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06638.jpg 216,398,380,498,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06649.jpg 140,338,319,564,4 124,423,375,527,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06654.jpg 1332,431,1498,537,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06667.jpg 408,126,475,324,4 364,191,498,296,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06676.jpg 68,77,296,218,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06693.jpg 102,129,232,211,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06698.jpg 466,842,603,925,2 457,861,615,964,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06701.jpg 432,322,616,404,2 447,354,623,415,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06708.jpg 193,115,325,229,4 230,134,327,225,4 102,152,178,278,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06712.jpg 703,333,808,433,2 847,261,945,409,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06725.jpg 1101,728,1242,811,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06731.jpg 20,323,99,539,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06739.jpg 161,252,297,345,1 189,193,288,330,2 187,177,284,327,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06741.jpg 185,180,275,334,4 186,192,270,303,2 152,246,290,347,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06753.jpg 231,268,405,375,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06759.jpg 149,365,277,453,2 165,353,269,419,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06783.jpg 18,92,120,158,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06788.jpg 110,260,212,448,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06793.jpg 269,170,325,246,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06804.jpg 166,108,300,229,2 164,105,284,239,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06806.jpg 154,143,287,241,2 141,184,295,223,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06819.jpg 275,279,336,407,2 221,278,300,377,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06824.jpg 91,413,220,466,3 82,439,215,493,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06836.jpg 63,262,223,394,2 57,318,148,385,4 136,374,200,416,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06840.jpg 143,294,251,387,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06842.jpg 143,298,246,384,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06855.jpg 486,171,591,300,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06856.jpg 697,179,801,326,2 555,173,757,276,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06858.jpg 658,178,756,326,2 523,174,713,278,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06862.jpg 129,372,203,417,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06875.jpg 188,323,309,387,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06878.jpg 132,726,240,942,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06889.jpg 1181,607,1315,630,2 3,526,154,567,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06902.jpg 462,364,547,487,2 432,425,500,513,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06907.jpg 293,143,392,196,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06908.jpg 178,142,271,198,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06909.jpg 171,89,268,141,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06924.jpg 142,88,233,141,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06927.jpg 195,390,298,521,2 206,368,293,489,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06930.jpg 98,328,244,522,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06934.jpg 94,124,259,293,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06944.jpg 177,188,378,362,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06974.jpg 306,270,444,395,2 214,319,317,410,2 323,285,427,348,4 299,303,371,360,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06989.jpg 132,321,208,453,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P06997.jpg 53,101,192,206,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07004.jpg 311,221,433,285,2 306,160,423,257,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07013.jpg 444,420,644,484,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07024.jpg 141,91,282,181,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07038.jpg 256,107,416,237,4 343,276,414,369,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07050.jpg 695,692,886,801,4 770,804,869,861,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07053.jpg 91,97,267,194,4 240,112,429,201,2 243,181,383,239,2 105,164,264,254,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07057.jpg 87,97,267,195,4 240,112,426,200,2 242,178,386,239,2 103,162,262,255,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07061.jpg 218,81,264,307,4 256,271,348,353,4 330,230,372,340,4 297,284,354,359,4 317,97,376,165,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07079.jpg 364,253,488,376,2 364,228,479,283,4 345,243,390,303,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07081.jpg 1383,543,1469,688,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07092.jpg 357,316,414,466,2 346,324,394,436,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07098.jpg 1153,308,1316,350,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07109.jpg 481,449,563,572,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07125.jpg 120,456,251,491,4 162,539,300,576,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07141.jpg 100,494,192,604,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07158.jpg 680,659,718,823,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07165.jpg 186,158,359,193,4 163,230,313,280,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07170.jpg 71,339,210,376,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07184.jpg 393,516,554,623,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07189.jpg 156,337,210,450,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07235.jpg 602,454,633,592,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07239.jpg 368,272,484,343,2 391,232,538,323,2 435,234,558,313,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07244.jpg 125,271,218,462,4 127,367,216,467,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07247.jpg 296,97,347,167,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07252.jpg 67,74,158,147,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07278.jpg 1217,647,1309,796,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07288.jpg 127,442,285,540,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07306.jpg 146,321,238,390,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07310.jpg 97,349,219,387,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07322.jpg 842,120,974,147,1
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07335.jpg 613,142,681,258,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07346.jpg 512,377,648,414,2 481,379,521,474,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07354.jpg 293,361,375,477,2 300,167,371,298,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07364.jpg 175,353,238,456,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07365.jpg 178,680,234,786,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07445.jpg 373,466,510,524,2 327,427,444,484,4 226,454,324,562,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07447.jpg 715,353,848,405,2 732,453,885,527,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07461.jpg 187,106,379,242,4 124,73,240,157,4 168,131,311,237,2 154,111,282,211,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07465.jpg 263,210,310,332,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07466.jpg 258,210,308,334,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07498.jpg 736,432,780,593,4 518,459,679,520,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07504.jpg 298,298,364,422,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07510.jpg 97,350,193,383,4 91,367,206,420,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07517.jpg 231,61,349,141,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07528.jpg 62,256,165,451,2 102,278,229,438,2 113,278,219,404,2 33,219,174,406,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07534.jpg 180,89,402,256,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07537.jpg 187,123,321,280,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07539.jpg 78,269,126,382,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07543.jpg 312,186,377,270,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07546.jpg 368,273,481,330,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07587.jpg 135,32,283,147,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07592.jpg 478,177,564,332,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07599.jpg 510,558,615,666,2 1334,556,1429,678,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07605.jpg 227,256,284,320,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07613.jpg 184,133,356,180,2 192,108,414,301,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07618.jpg 159,211,362,312,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07627.jpg 364,210,502,239,4 276,240,402,291,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07628.jpg 163,163,333,392,4 137,193,277,302,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07655.jpg 313,613,398,755,4 377,601,411,813,4 327,597,431,710,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07665.jpg 380,529,412,659,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07686.jpg 363,304,426,435,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07705.jpg 172,115,305,202,3 135,158,261,236,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07731.jpg 74,195,167,339,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07736.jpg 386,39,535,97,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07741.jpg 120,479,197,527,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07747.jpg 76,295,191,397,2 65,243,235,413,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07760.jpg 166,224,302,257,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07762.jpg 579,184,654,378,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07781.jpg 125,443,295,567,4 39,392,140,509,4 76,467,144,525,4 62,445,121,506,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07804.jpg 618,205,788,336,4 569,480,749,533,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07810.jpg 180,331,347,426,2 207,338,341,421,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07814.jpg 117,46,229,146,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07816.jpg 396,340,467,446,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07818.jpg 370,77,449,178,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07826.jpg 544,304,610,351,3 583,256,665,322,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07827.jpg 542,303,613,351,3 581,257,664,320,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07840.jpg 35,303,167,435,4 68,340,196,407,4 118,346,233,435,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07867.jpg 198,325,233,444,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07869.jpg 797,328,833,443,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07872.jpg 798,329,836,443,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07877.jpg 165,419,230,563,2 231,365,287,566,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07903.jpg 106,557,165,745,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07966.jpg 170,227,272,352,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P07991.jpg 45,211,173,315,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08004.jpg 147,336,285,375,2 41,334,176,371,2 110,254,284,294,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08013.jpg 88,74,191,202,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08017.jpg 353,274,461,401,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08055.jpg 152,96,229,225,2 83,134,141,306,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08058.jpg 182,281,299,462,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08085.jpg 306,260,451,398,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08111.jpg 199,101,220,180,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08127.jpg 107,176,198,290,2 66,179,143,290,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08128.jpg 108,176,199,291,2 64,178,142,289,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08134.jpg 118,248,353,375,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08140.jpg 130,148,240,210,2 89,124,156,232,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08142.jpg 102,126,174,234,2 140,147,254,210,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08144.jpg 235,224,339,304,2 226,262,337,304,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08155.jpg 227,305,368,373,2 264,358,408,463,2 257,287,339,428,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08166.jpg 208,466,330,548,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08169.jpg 292,167,447,192,4 291,196,449,259,2 161,206,270,252,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08197.jpg 141,399,226,454,3 136,421,214,473,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08205.jpg 100,61,278,189,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08249.jpg 100,354,248,515,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08262.jpg 123,416,197,489,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08268.jpg 189,453,322,536,2 340,428,456,466,2 193,571,297,734,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08297.jpg 67,190,120,285,2 85,159,126,277,2 98,164,163,287,2 92,167,176,333,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08323.jpg 278,135,361,252,4 190,424,307,475,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08324.jpg 636,365,873,469,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08339.jpg 537,318,595,376,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08340.jpg 488,324,542,377,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08352.jpg 279,193,330,248,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08353.jpg 286,329,331,383,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08369.jpg 405,356,498,447,2 430,294,513,417,2 438,290,557,465,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08371.jpg 428,291,542,466,2 389,351,484,444,2 419,301,497,410,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08381.jpg 508,384,584,426,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08411.jpg 252,245,355,323,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08423.jpg 344,213,418,344,2 332,214,396,340,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08432.jpg 380,267,438,329,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08437.jpg 183,88,250,147,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08440.jpg 179,88,251,149,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08447.jpg 386,208,446,270,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08493.jpg 100,270,229,311,2 87,350,257,403,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08500.jpg 394,188,511,282,2 278,337,427,430,2 336,328,478,363,4 349,378,489,430,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08501.jpg 340,596,475,631,4 352,645,485,703,4 401,451,507,558,2 277,606,409,703,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08518.jpg 314,100,365,181,2 279,148,335,248,2 319,136,381,233,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08533.jpg 333,252,464,339,2 309,272,460,402,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08543.jpg 234,235,388,291,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08553.jpg 74,157,250,299,2 114,253,177,368,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08583.jpg 374,181,430,372,2 416,187,447,360,4 158,233,384,382,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08613.jpg 38,355,191,453,2 46,360,204,483,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08639.jpg 392,152,550,217,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08645.jpg 128,201,209,255,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08653.jpg 452,148,571,233,2 516,151,655,246,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08659.jpg 238,268,311,329,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08674.jpg 412,347,594,412,4 371,421,569,470,4 426,460,558,492,4 345,338,550,399,4 362,376,524,423,2 430,424,583,464,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08677.jpg 202,85,337,152,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08680.jpg 177,280,319,389,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08686.jpg 409,169,470,186,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08700.jpg 431,215,555,268,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08735.jpg 334,455,401,582,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08738.jpg 542,121,669,237,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08741.jpg 517,118,668,238,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08766.jpg 663,670,727,741,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08786.jpg 7,435,141,601,2 48,394,179,567,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08792.jpg 305,381,365,490,2 308,381,386,545,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08796.jpg 245,467,414,550,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08802.jpg 268,236,402,344,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08814.jpg 63,218,130,324,2 81,277,153,333,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08824.jpg 247,146,339,298,4
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08826.jpg 226,132,314,287,2 307,153,443,243,2
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08839.jpg 257,322,422,464,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08840.jpg 223,284,643,483,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08846.jpg 267,396,517,561,0 660,271,937,761,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08860.jpg 66,81,114,191,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08869.jpg 510,690,1188,1074,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08888.jpg 209,225,323,287,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08895.jpg 47,187,615,312,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08901.jpg 137,86,313,247,3 296,177,504,303,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08902.jpg 307,203,452,309,0 92,90,211,221,3
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08904.jpg 121,165,277,219,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08905.jpg 248,100,311,158,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08910.jpg 100,62,149,103,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08923.jpg 182,34,261,159,0
+D:\qingliangji\mobilenet-yolov4-pytorch-main\X_ray/VOC2021/JPEGImages/P08924.jpg 152,320,445,415,0
