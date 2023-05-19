@@ -1,67 +1,16 @@
-## YOLOV4：You Only Look Once目标检测模型-修改mobilenet系列主干网络-在pytorch当中的实现
+## YOLOV4：You Only Look Once目标检测模型-修改主干网络替换MVray-在pytorch当中的实现
 ---
-
-## 目录
-1. [仓库更新 Top News](#仓库更新)
-2. [相关仓库 Related code](#相关仓库)
-3. [性能情况 Performance](#性能情况)
-4. [所需环境 Environment](#所需环境)
-5. [文件下载 Download](#文件下载)
-6. [训练步骤 How2train](#训练步骤)
-7. [预测步骤 How2predict](#预测步骤)
-8. [评估步骤 How2eval](#评估步骤)
-9. [参考资料 Reference](#Reference)
-
-## Top News
-**`2022-04`**:**支持多GPU训练，新增各个种类目标数量计算，新增heatmap。**  
-
-**`2022-03`**:**进行了大幅度的更新，修改了loss组成，使得分类、目标、回归loss的比例合适、支持step、cos学习率下降法、支持adam、sgd优化器选择、支持学习率根据batch_size自适应调整、新增图片裁剪。**  
-BiliBili视频中的原仓库地址为：https://github.com/bubbliiiing/mobilenet-yolov4-pytorch/tree/bilibili
-
-**`2021-10`**:**进行了大幅度的更新，增加了大量注释、增加了大量可调整参数、对代码的组成模块进行修改、增加fps、视频预测、批量预测等功能。** 
-
-## 相关仓库
-| 模型 | 路径 |
-| :----- | :----- |
-YoloV3 | https://github.com/bubbliiiing/yolo3-pytorch  
-Efficientnet-Yolo3 | https://github.com/bubbliiiing/efficientnet-yolo3-pytorch  
-YoloV4 | https://github.com/bubbliiiing/yolov4-pytorch
-YoloV4-tiny | https://github.com/bubbliiiing/yolov4-tiny-pytorch
-Mobilenet-Yolov4 | https://github.com/bubbliiiing/mobilenet-yolov4-pytorch
-YoloV5-V5.0 | https://github.com/bubbliiiing/yolov5-pytorch
-YoloV5-V6.1 | https://github.com/bubbliiiing/yolov5-v6.1-pytorch
-YoloX | https://github.com/bubbliiiing/yolox-pytorch
-
-## 性能情况
-| 训练数据集 | 权值文件名称 | 测试数据集 | 输入图片大小 | mAP 0.5:0.95 | mAP 0.5 |
-| :-----: | :-----: | :------: | :------: | :------: | :-----: |
-| VOC07+12 | [yolov4_mobilenet_v1_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_mobilenet_v1_voc.pth) | VOC-Test07 | 416x416 | - | 79.72
-| VOC07+12 | [yolov4_mobilenet_v2_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_mobilenet_v2_voc.pth) | VOC-Test07 | 416x416 | - | 80.12
-| VOC07+12 | [yolov4_mobilenet_v3_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_mobilenet_v3_voc.pth) | VOC-Test07 | 416x416 | - | 79.01
-| VOC07+12 | [yolov4_ghostnet_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_ghostnet_voc.pth) | VOC-Test07 | 416x416 | - | 78.69
-| VOC07+12 | [yolov4_vgg_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_vgg_voc.pth) | VOC-Test07 | 416x416 | - | 80.58
-| VOC07+12 | [yolov4_densenet121_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_densenet121_voc.pth) | VOC-Test07 | 416x416 | - | 83.99
-| VOC07+12 | [yolov4_resnet50_voc.pth](https://github.com/bubbliiiing/mobilenet-yolov4-lite-pytorch/releases/download/v1.0/yolov4_resnet50_voc.pth) | VOC-Test07 | 416x416 | - | 84.24
 
 ## 所需环境
 torch==1.2.0
 
-## 文件下载 
-训练所需的各个权值、主干的权值可在百度网盘中下载。    
-链接: https://pan.baidu.com/s/1FBRJmE4B_03OChvpaApANg     
-提取码: 6fsx     
-  
-VOC数据集下载地址如下，里面已经包括了训练集、测试集、验证集（与测试集一样），无需再次划分：  
-链接: https://pan.baidu.com/s/19Mw2u_df_nBzsC2lg20fQA  
-提取码: j5ge  
-
 ## 训练步骤  
-### a、训练VOC07+12数据集
+### a、训练Sixray数据集
 1. 数据集的准备   
-**本文使用VOC格式进行训练，训练前需要下载好VOC07+12的数据集，解压后放在根目录**  
+**本文使用VOC格式进行训练，训练前需要下载好相应的数据集，解压后放在根目录**  
 
 2. 数据集的处理   
-修改voc_annotation.py里面的annotation_mode=2，运行voc_annotation.py生成根目录下的2007_train.txt和2007_val.txt。   
+修改voc_annotation.py里面的annotation_mode=2，运行voc_annotation.py生成根目录下的2021_train.txt和2021_val.txt。   
 
 3. 开始网络训练   
 train.py的默认参数用于训练VOC数据集，直接运行train.py即可开始训练。   
@@ -75,11 +24,11 @@ classes_path指向检测类别所对应的txt。**
 ### b、训练自己的数据集
 1. 数据集的准备  
 **本文使用VOC格式进行训练，训练前需要自己制作好数据集，**    
-训练前将标签文件放在VOCdevkit文件夹下的VOC2007文件夹下的Annotation中。   
-训练前将图片文件放在VOCdevkit文件夹下的VOC2007文件夹下的JPEGImages中。   
+训练前将标签文件放在VOCdevkit文件夹下的VOC2021文件夹下的Annotation中。   
+训练前将图片文件放在VOCdevkit文件夹下的VOC2021文件夹下的JPEGImages中。   
 
 2. 数据集的处理  
-在完成数据集的摆放之后，我们需要利用voc_annotation.py获得训练用的2007_train.txt和2007_val.txt。   
+在完成数据集的摆放之后，我们需要利用voc_annotation.py获得训练用的2021_train.txt和2021_val.txt。   
 修改voc_annotation.py里面的参数。第一次训练可以仅修改classes_path，classes_path用于指向检测类别所对应的txt。   
 训练自己的数据集时，可以自己建立一个cls_classes.txt，里面写自己所需要区分的类别。   
 model_data/cls_classes.txt文件内容为：      
@@ -157,8 +106,8 @@ img/street.jpg
 4. 在predict.py里面进行设置可以进行fps测试和video视频检测。  
 
 ## 评估步骤 
-### a、评估VOC07+12的测试集
-1. 本文使用VOC格式进行评估。VOC07+12已经划分好了测试集，无需利用voc_annotation.py生成ImageSets文件夹下的txt。
+### a、评估SIXRAY的测试集
+1. 本文使用VOC格式进行评估。已经划分好了测试集，无需利用voc_annotation.py生成ImageSets文件夹下的txt。
 2. 在yolo.py里面修改model_path以及classes_path。**model_path指向训练好的权值文件，在logs文件夹里。classes_path指向检测类别所对应的txt。**  
 3. 运行get_map.py即可获得评估结果，评估结果会保存在map_out文件夹中。
 
@@ -169,7 +118,3 @@ img/street.jpg
 4. 在yolo.py里面修改model_path以及classes_path。**model_path指向训练好的权值文件，在logs文件夹里。classes_path指向检测类别所对应的txt。**  
 5. 运行get_map.py即可获得评估结果，评估结果会保存在map_out文件夹中。
 
-## Reference
-https://github.com/qqwweee/keras-yolo3/  
-https://github.com/Cartucho/mAP  
-https://github.com/Ma-Dan/keras-yolo4  
